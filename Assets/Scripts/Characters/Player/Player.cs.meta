@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2b7962b6945d8964fac221c72602ffa8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - visualsObject: {instanceID: 0}
+  - skillPrefab: {fileID: 6101171343860851452, guid: 069c96791b358a74ab78b107958a811a,
+      type: 3}
+  - playerClass: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

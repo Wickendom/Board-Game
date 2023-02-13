@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e2928ae82482bc74988ac01ee9c0d9cb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - basePrefabObject: {fileID: 1445632187660773612, guid: c0b2f90a2cdf25742908b5fcf572c64d,
+      type: 3}
+  - skillIcon: {instanceID: 0}
+  - skillVFXPrefab: {instanceID: 0}
+  - projectileOnHitVfxPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
